@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Chanel>
+  <Title>онт</Title>
+  <Programs>
+    <Program>
+      <Title>время</Title>
+      <Start>29.12.2021 09:00</Start>
+      <End>29.12.2021 10:30</End>
+    </Program>
+    <Program>
+      <Title>новости</Title>
+      <Start>29.12.2021 11:00</Start>
+      <End>29.12.2021 11:30</End>
+    </Program>
+    <Program>
+      <Title>маски шоу</Title>
+      <Start>29.12.2021 11:30</Start>
+      <End>29.12.2021 12:30</End>
+    </Program>
+    <Program>
+      <Title>спортивные новости</Title>
+      <Start>29.12.2021 12:30</Start>
+      <End>29.12.2021 12:45</End>
+    </Program>
+  </Programs>
+</Chanel>
+
